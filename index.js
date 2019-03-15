@@ -26,4 +26,5 @@ function divide(a,b) {
   }
   
    function preserveDecimal(n)
+   return parseFloat(n)
    
